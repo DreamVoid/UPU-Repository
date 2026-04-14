@@ -2,7 +2,7 @@
     "name": "MiraiMC",
     "platform":{
         "universal": "universal.json",
-        "bukkit": "bukkit.json",
-        "paper": "bukkit.json"
+        "bukkit": "universal.json",
+        "paper": "universal.json"
     }
 }
