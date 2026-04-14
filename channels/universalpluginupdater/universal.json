@@ -1,0 +1,11 @@
+{
+    "channels": [
+        {
+            "type": "modrinth",
+            "config": {
+                "projectId": "X67Jami3",
+                "featured": false
+            }
+        }
+    ]
+}

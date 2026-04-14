@@ -1,0 +1,17 @@
+{
+    "channels": [
+        {
+            "type": "modrinth",
+            "config": {
+                "projectId": "YkTjLA2e",
+                "featured": false
+            }
+        },
+        {
+            "type": "url",
+            "config": {
+                "url": "https://api.miraimc.dreamvoid.me/update.json"
+            }
+        }
+    ]
+}

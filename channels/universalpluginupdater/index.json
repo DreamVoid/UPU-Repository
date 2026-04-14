@@ -1,0 +1,7 @@
+{
+    "name": "UniversalPluginUpdater",
+    "last_update": "20260414",
+    "platform":{
+        "universal": "universal.json"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "MiraiMC",
+    "last_update": "20260414",
+    "platform":{
+        "universal": "universal.json",
+        "bukkit": "bukkit.json",
+        "paper": "bukkit.json"
+    }
+}
