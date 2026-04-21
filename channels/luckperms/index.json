@@ -1,0 +1,6 @@
+{
+    "name": "LuckPerms",
+    "platform":{
+        "universal": "universal.json"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "last_update": "20260421",
+    "channels": [
+        {
+            "type": "modrinth",
+            "config": {
+                "projectId": "kKZkPgJ7"
+            }
+        },
+        {
+            "type": "hangar",
+            "config": {
+                "author": "HelpChat",
+                "slugOrId": "DeluxeMenus",
+                "channel": "Release"
+            }
+        }
+    ]
+}
