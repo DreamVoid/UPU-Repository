@@ -1,0 +1,25 @@
+{
+    "last_update": "20260421",
+    "channels": [
+        {
+            "type": "modrinth",
+            "config": {
+                "projectId": "gG7VFbG0"
+            }
+        },
+        {
+            "type": "github",
+            "config": {
+                "repository": "NEZNAMY/TAB"
+            }
+        },
+        {
+            "type": "hangar",
+            "config": {
+                "author": "NEZNAMY",
+                "slugOrId": "TAB",
+                "channel": "Release"
+            }
+        }
+    ]
+}

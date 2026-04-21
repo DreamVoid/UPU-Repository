@@ -1,0 +1,25 @@
+{
+    "last_update": "20260421",
+    "channels": [
+        {
+            "type": "modrinth",
+            "config": {
+                "projectId": "lKEzGugV"
+            }
+        },
+        {
+            "type": "hangar",
+            "config": {
+                "author": "HelpChat",
+                "slugOrId": "PlaceholderAPI",
+                "channel": "Release"
+            }
+        },
+        {
+            "type": "github",
+            "config": {
+                "repository": "PlaceholderAPI/PlaceholderAPI"
+            }
+        }
+    ]
+}

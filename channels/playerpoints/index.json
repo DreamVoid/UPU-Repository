@@ -1,0 +1,6 @@
+{
+    "name": "PlayerPoints",
+    "platform":{
+        "universal": "universal.json"
+    }
+}
