@@ -1,0 +1,11 @@
+{
+    "last_update": "20260422",
+    "channels": [
+        {
+            "type": "modrinth",
+            "config": {
+                "projectId": "ijC5dDkD"
+            }
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Towny",
+    "platform":{
+        "universal": "universal.json"
+    }
+}
