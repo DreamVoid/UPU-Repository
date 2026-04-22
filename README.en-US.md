@@ -8,4 +8,4 @@ You are free to clone this repository and maintain your own repository according
 
 ## 贡献配置
 
-To contribute new plugin configurations, please see the [Contribution Guidelines](.github/CONTRIBUTION.en-US.md).
+To contribute new plugin configurations, please see the [Contribution Guidelines](.github/CONTRIBUTING.en-US.md).

@@ -8,4 +8,4 @@
 
 ## 贡献配置
 
-要贡献新的插件配置，请查看[贡献指南](.github/CONTRIBUTION.md)。
+要贡献新的插件配置，请查看[贡献指南](.github/CONTRIBUTING.md)。
