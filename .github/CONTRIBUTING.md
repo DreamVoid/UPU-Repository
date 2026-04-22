@@ -1,5 +1,7 @@
 # 贡献指南
 
+[简体中文](CONTRIBUTING.md) | [English](CONTRIBUTING.en-US.md)
+
 所有插件的配置文件都应当存放在 `channels` 目录中。每个插件的名称都以小写存放在对应的目录中。比如，ViaVersion 插件的配置需要存放在 `channels/viaversion` 目录。
 
 配置目录必须具有 `index.json`，这是 UPU 首先会请求的文件。如果此文件不存在，那么 UPU 会放弃请求。这一机制也可以用于草稿，如果配置还没准备好，可以暂时不添加这个文件。
