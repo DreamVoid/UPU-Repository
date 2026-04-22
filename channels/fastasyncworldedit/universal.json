@@ -1,0 +1,17 @@
+{
+    "last_update": "20260421",
+    "channels": [
+        {
+            "type": "modrinth",
+            "config": {
+                "projectId": "z4HZZnLr"
+            }
+        },
+        {
+            "type": "github",
+            "config": {
+                "repository": "IntellectualSites/FastAsyncWorldEdit"
+            }
+        }
+    ]
+}

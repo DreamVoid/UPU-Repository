@@ -1,0 +1,6 @@
+{
+    "name": "FastAsyncWorldEdit",
+    "platform":{
+        "universal": "universal.json"
+    }
+}
