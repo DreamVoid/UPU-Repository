@@ -35,4 +35,4 @@ UPU 会首先查找当前平台的配置，如果没有找到，则回退 `unive
 * 渠道配置文件中 `selectedChannel` 不得存在非 `null` 的默认值。
 * 除非有合适的理由，否则更新渠道配置必须包含 `universal.json`，包括那些仅在部分平台推出的插件。
 
-确保符合要求后，通过 GitHub 的 Pull Request 功能创建一个拉取请求，在我们确认你的配置无误后就会合并到仓库，供所有 UPU 的使用者下载。
+确保符合要求后，通过 GitHub 的 [Pull Request](https://github.com/DreamVoid/UPU-Repository/pulls) 功能创建一个拉取请求，在我们确认你的配置无误后就会合并到仓库，供所有 UPU 的使用者下载。

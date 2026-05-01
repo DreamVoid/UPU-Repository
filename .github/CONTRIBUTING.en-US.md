@@ -34,3 +34,5 @@ To contribute your configuration to the official UPU repository, you need to mee
   * This is to avoid causing unnecessary confusion for other plugin developers.
 * The `selectedChannel` field in the channel configuration file must not contain a non-`null` default value.
 * Unless there is a valid reason, update channel configurations must include a `universal.json` file, including plugins released only on select platforms.
+
+Once you've ensured that you meet the requirements, create a pull request using GitHub's [Pull Request](https://github.com/DreamVoid/UPU-Repository/pulls) feature. After we confirm that your configuration is correct, we will merge it into the repository for all UPU users to download.
