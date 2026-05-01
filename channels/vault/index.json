@@ -1,0 +1,6 @@
+{
+    "name": "Vault",
+    "platform":{
+        "universal": "universal.json"
+    }
+}
