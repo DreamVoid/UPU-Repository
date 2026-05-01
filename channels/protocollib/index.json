@@ -1,0 +1,6 @@
+{
+    "name": "ProtocolLib",
+    "platform":{
+        "universal": "universal.json"
+    }
+}

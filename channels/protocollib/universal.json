@@ -1,0 +1,12 @@
+{
+    "last_update": "20260501",
+    "channels": [
+        {
+            "type": "github",
+            "config": {
+                "repository": "dmulloy2/ProtocolLib",
+                "version-key": "tag_name"
+            }
+        }
+    ]
+}
