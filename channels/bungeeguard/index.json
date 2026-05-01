@@ -1,0 +1,6 @@
+{
+    "name": "BungeeGuard",
+    "platform":{
+        "universal": "universal.json"
+    }
+}

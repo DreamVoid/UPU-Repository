@@ -1,0 +1,14 @@
+{
+    "last_update": "0",
+    "channels": [
+        {
+            "type": "modrinth",
+            "config": {
+                "projectId": "null",
+                "featured": false,
+                "version-key": "name",
+                "version-regex": null
+            }
+        }
+    ]
+}

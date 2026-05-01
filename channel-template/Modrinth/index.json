@@ -1,0 +1,6 @@
+{
+    "name": "Modrinth Template",
+    "platform":{
+        "universal": "universal.json"
+    }
+}

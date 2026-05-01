@@ -1,0 +1,16 @@
+{
+    "last_update": "0",
+    "channels": [
+        {
+            "type": "github",
+            "config": {
+                "repository": null,
+                "auth": null,
+                "accept": "application/java-archive",
+                "filter": null,
+                "version-key": "name",
+                "version-regex": null
+            }
+        }
+    ]
+}

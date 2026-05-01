@@ -1,0 +1,6 @@
+{
+    "name": "GitHub Template",
+    "platform":{
+        "universal": "universal.json"
+    }
+}
