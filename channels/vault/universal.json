@@ -5,7 +5,12 @@
             "type": "github",
             "config": {
                 "repository": "MilkBowl/Vault",
-                "version-key": "tag_name"
+                "version-key": "tag_name",
+                "accept": [
+                    "application/java-archive",
+                    "application/x-java-archive",
+                    "application/octet-stream"
+                ]
             }
         }
     ]
