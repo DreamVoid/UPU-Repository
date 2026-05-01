@@ -1,0 +1,6 @@
+{
+    "name": "CommandSync",
+    "platform":{
+        "universal": "universal.json"
+    }
+}

@@ -4,7 +4,8 @@
         {
             "type": "modrinth",
             "config": {
-                "projectId": "lKEzGugV"
+                "projectId": "lKEzGugV",
+                "version-key": "version_number"
             }
         }
     ]
