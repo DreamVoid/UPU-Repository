@@ -1,0 +1,6 @@
+{
+    "name": "SpigotMC Template",
+    "platform":{
+        "universal": "universal.json"
+    }
+}

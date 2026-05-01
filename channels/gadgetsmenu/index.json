@@ -1,0 +1,6 @@
+{
+    "name": "GadgetsMenu",
+    "platform":{
+        "universal": "universal.json"
+    }
+}

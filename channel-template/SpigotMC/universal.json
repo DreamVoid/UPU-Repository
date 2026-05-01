@@ -1,0 +1,12 @@
+{
+    "last_update": "0",
+    "channels": [
+      {
+            "type": "spigotmc",
+            "config": {
+                "resource": null,
+                "proxy-download": false
+            }
+        }
+    ]
+}
