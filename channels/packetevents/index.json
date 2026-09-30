@@ -1,0 +1,6 @@
+{
+    "name": "packetevents",
+    "platform":{
+        "universal": "universal.json"
+    }
+}

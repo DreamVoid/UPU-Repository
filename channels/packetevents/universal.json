@@ -1,0 +1,14 @@
+{
+    "last_update": "20260930",
+    "channels": [
+        {
+            "type": "modrinth",
+            "config": {
+                "projectId": "HYKaKraK",
+                "featured": false,
+                "version-key": "version_number",
+                "version-regex": "^[^+]*(?=\\+)"
+            }
+        }
+    ]
+}
