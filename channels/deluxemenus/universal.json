@@ -5,8 +5,7 @@
             "type": "modrinth",
             "config": {
                 "projectId": "kKZkPgJ7",
-                "version-key": "version_number",
-                "version-regex": "^[^-]*"
+                "version-key": "version_number"
             }
         },
         {
