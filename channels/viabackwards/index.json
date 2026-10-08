@@ -1,0 +1,6 @@
+{
+    "name": "ViaBackwards",
+    "platform":{
+        "universal": "universal.json"
+    }
+}
