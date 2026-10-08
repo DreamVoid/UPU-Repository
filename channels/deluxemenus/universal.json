@@ -1,10 +1,12 @@
 {
-    "last_update": "20260421",
+    "last_update": "20261008",
     "channels": [
         {
             "type": "modrinth",
             "config": {
-                "projectId": "kKZkPgJ7"
+                "projectId": "kKZkPgJ7",
+                "version-key": "version_number",
+                "version-regex": "^[^-]*"
             }
         },
         {
