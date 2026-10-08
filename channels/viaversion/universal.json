@@ -4,8 +4,7 @@
         {
             "type": "modrinth",
             "config": {
-                "projectId": "P1OZGk5p",
-                "version-regex": "^[^-]*"
+                "projectId": "P1OZGk5p"
             }
         },
         {
