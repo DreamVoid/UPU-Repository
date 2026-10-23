@@ -4,7 +4,8 @@
         {
             "type": "modrinth",
             "config": {
-                "projectId": "P1OZGk5p"
+                "projectId": "P1OZGk5p",
+                "featured": true
             }
         },
         {

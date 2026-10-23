@@ -1,10 +1,11 @@
 {
-    "last_update": "20260422",
+    "last_update": "20261023",
     "channels": [
         {
             "type": "github",
             "config": {
                 "repository": "Jikoo/OpenInv",
+                "version-key": "tag_name",
                 "filter": "OpenInv"
             }
         }
