@@ -1,11 +1,11 @@
 {
-    "last_update": "20261026",
+    "last_update": "20261110",
     "channels": [
         {
             "type": "modrinth",
             "config": {
                 "projectId": "P1OZGk5p",
-                "featured": true,
+                "featured": false,
                 "version-type": [
                     "release"
                 ]
